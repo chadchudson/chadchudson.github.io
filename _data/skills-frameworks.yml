@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Training
   weight: 5
 
-- name: AngularJS
+- name: Assessments
   weight: 3
 
-- name: React
+- name: Control Design and Implementation
   weight: 4
 
-- name: Node
-  weight: 1
-
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Privacy
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
+- name: Sales
   weight: 2
 
-- name: Rails
+- name: Collaboration
+  weight: 5
+
+- name: Leadership
+  weight: 5
+
+- name: Business Enablement
+  weight: 3
+
+- name: Communication
   weight: 4
