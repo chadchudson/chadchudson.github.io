@@ -14,7 +14,7 @@ baseurl: ""
 username: Chad Hudson
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: CISO
+typing_text: Chief Information Security Officer
 # email: Your E-Mail address for the email button.
 email: chadchudson@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,11 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Chad Hudson is responsible for developing, implementing, supporting, and monitoring the compliance, privacy, security and various risk management programs. His focus is on developing policies, controls, and awareness that enable consistent, effective security and privacy practices to minimize risk while enabling business functions and ensure the confidentiality, integrity, and availability of organizational information. 
+
+With more than 15 years of cybersecurity and data privacy experience, Chad is a CISSP (Certified Information Systems Security Professional). He is also on the board of directors of InfraGard, a partnership between the FBI and members of the private sector for the protection of U.S. critical infrastructure.
+
+Chad and his wife live in the Kansas City area and have four active sons ranging from toddler to twenties. He has a long history of ministry, from being the Director of Student Ministry for almost ten years to recently become a Lay Pastor.
 
 # SKILLS SECTION
 # show_skills_card:
