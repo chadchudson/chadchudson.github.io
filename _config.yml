@@ -34,11 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Chad Hudson is responsible for developing, implementing, supporting, and monitoring the compliance, privacy, security and various risk management programs. His focus is on developing policies, controls, and awareness that enable consistent, effective security and privacy practices to minimize risk while enabling business functions and ensure the confidentiality, integrity, and availability of organizational information. 
-
-With more than 15 years of cybersecurity and data privacy experience, Chad is a CISSP (Certified Information Systems Security Professional). He is also on the board of directors of InfraGard, a partnership between the FBI and members of the private sector for the protection of U.S. critical infrastructure.
-
-Chad and his wife live in the Kansas City area and have four active sons ranging from toddler to twenties. He has a long history of ministry, from being the Director of Student Ministry for almost ten years to recently become a Lay Pastor.
+about_me_description: Chad Hudson is responsible for developing, implementing, supporting, and monitoring the compliance, privacy, security and various risk management programs. His focus is on developing policies, controls, and awareness that enable consistent, effective security and privacy practices to minimize risk while enabling business functions and ensure the confidentiality, integrity, and availability of organizational information. With more than 15 years of cybersecurity and data privacy experience, Chad is a CISSP (Certified Information Systems Security Professional). He is also on the board of directors of InfraGard, a partnership between the FBI and members of the private sector for the protection of U.S. critical infrastructure. Chad and his wife live in the Kansas City area and have four active sons ranging from toddler to twenties. He has a long history of ministry, from being the Director of Student Ministry for almost ten years to recently become a Lay Pastor.
 
 # SKILLS SECTION
 # show_skills_card:
