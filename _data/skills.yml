@@ -13,7 +13,7 @@
 
 - name: risk assessments
   skills:
-    - class: 
+    - class: *
       skill_name: Microsoft365
     - class: 
       skill_name: Azure
