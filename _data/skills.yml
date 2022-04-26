@@ -7,9 +7,9 @@
     - class: 
       skill_name: Chief Privacy Officer
     - class: 
-      skill_name: Custom risk-based strategic roadmap
+      skill_name: Strategic roadmap development
     - class: 
-      skill_name: 
+      skill_name: Risk management
 
 - name: risk assessments
   skills:
@@ -96,15 +96,15 @@
     - class: 
       skill_name: OneTrust
     - class: 
-      skill_name: JAMF endpoint management
+      skill_name: JAMF
     - class: 
       skill_name: ConnectWise
     - class: 
       skill_name: Kaseya
     - class: 
-      skill_name: Multiple AV tools (CarbonBlack, Secure Anywhere, more)
+      skill_name: Multiple AV tools 
     - class: 
-      skill_name: Full IT services from on-premsise and decentralized workforce
+      skill_name: Full IT services
 
       
 
