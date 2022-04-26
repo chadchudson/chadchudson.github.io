@@ -1,24 +1,30 @@
 - name: executive services
   skills:
     - class: 
-      skill_name: - Chief Information Security Officer
+      skill_name: Chief Information Security Officer
     - class: 
-      skill_name: (v)Chief Compliance Officer
+      skill_name: Chief Compliance Officer
     - class: 
-      skill_name: (v)Chief Privacy Officer
+      skill_name: Chief Privacy Officer
     - class: 
       skill_name: Custom risk-based strategic roadmap
     - class: 
       skill_name: 
 
-- name: assessments
+- name: risk assessments
   skills:
     - class: 
-      skill_name: JavaScript
+      skill_name: Microsoft365
     - class: 
-      skill_name: Python
+      skill_name: Azure
     - class: 
-      skill_name: Ruby
+      skill_name: Amazon Web Services
+    - class: 
+      skill_name: Google Cloud Platform
+    - class: 
+      skill_name: On-premise/physical
+    - class: 
+      skill_name: Multiple frameworks
 
 - name: incident response
   skills:
