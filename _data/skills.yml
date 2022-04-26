@@ -75,11 +75,11 @@
 - name: education and culture
   skills:
     - class: 
-      skill_name: Mocha
+      skill_name: Executive security training
     - class: 
-      skill_name: Jasmine
+      skill_name: Security culture development
     - class: 
-      skill_name: RSpec
+      skill_name: 
 
 - name: it services and tools
   skills:
@@ -89,7 +89,7 @@
       skill_name: Azure Cloud and AD
     - class: 
       skill_name: Amazon Web Services
-    - class: 
+    - class: <i class="fa-brands fa-google"></i>
       skill_name: Google Cloud Platform
     - class: 
       skill_name: Tugboat
