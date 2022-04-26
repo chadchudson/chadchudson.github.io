@@ -89,7 +89,7 @@
       skill_name: Azure Cloud and AD
     - class: 
       skill_name: Amazon Web Services
-<i class="fa-brands fa-google"></i>
+    - class: 
       skill_name: Google Cloud Platform
     - class: 
       skill_name: Tugboat
