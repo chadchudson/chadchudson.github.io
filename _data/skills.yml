@@ -11,7 +11,7 @@
     - class: jquery-plain
       skill_name: jQuery
 
-- name: languages
+- name: assessments
   skills:
     - class: javascript-plain
       skill_name: JavaScript
@@ -20,7 +20,7 @@
     - class: ruby-plain
       skill_name: Ruby
 
-- name: databases
+- name: incident response
   skills:
     - class: postgresql-plain
       skill_name: Postgresql
@@ -29,7 +29,7 @@
     - class: mysql-plain
       skill_name: MySQL
 
-- name: frontend frameworks
+- name: compliance
   skills:
     - class: react-plain
       skill_name: React
@@ -40,7 +40,7 @@
     - class: jekyll-plain
       skill_name: Jekyll
 
-- name: backend frameworks
+- name: security
   skills:
     - class: rails-plain
       skill_name: Ruby-on-Rails
@@ -51,7 +51,7 @@
     - class: django-plain
       skill_name: Django
 
-- name: devops
+- name: privacy
   skills:
     - class: git-plain
       skill_name: Git
@@ -62,7 +62,7 @@
     - class: docker-plain
       skill_name: Docker
 
-- name: testing
+- name: education and culture
   skills:
     - class: mocha-plain
       skill_name: Mocha
