@@ -1,77 +1,104 @@
 - name: executive services
   skills:
     - class: 
-      skill_name: (v)CISO
+      skill_name: (v)Chief Information Security Officer
     - class: 
-      skill_name: (v)CCO
+      skill_name: (v)Chief Compliance Officer
     - class: 
-      skill_name: (v)CPO
-    - class: bootstrap-plain
-      skill_name: Bootstrap
-    - class: jquery-plain
-      skill_name: jQuery
+      skill_name: (v)Chief Privacy Officer
+    - class: 
+      skill_name: Custom risk-based strategic roadmap
+    - class: 
+      skill_name: 
 
 - name: assessments
   skills:
-    - class: javascript-plain
+    - class: 
       skill_name: JavaScript
-    - class: python-plain
+    - class: 
       skill_name: Python
-    - class: ruby-plain
+    - class: 
       skill_name: Ruby
 
 - name: incident response
   skills:
-    - class: postgresql-plain
+    - class: 
       skill_name: Postgresql
-    - class: mongodb-plain
+    - class: 
       skill_name: MongoDB
-    - class: mysql-plain
+    - class: 
       skill_name: MySQL
 
 - name: compliance
   skills:
-    - class: react-plain
-      skill_name: React
-    - class: angularjs-plain
-      skill_name: Angular
-    - class: vuejs-plain
-      skill_name: Vue
-    - class: jekyll-plain
-      skill_name: Jekyll
+    - class: 
+      skill_name: SOC2
+    - class: 
+      skill_name: PCI-DSS
+    - class: 
+      skill_name: HIPAA/HITECH
+    - class: 
+      skill_name: NIST
+    - class: 
+      skill_name: FedRAMP
+    - class: 
+      skill_name: CMMC
 
 - name: security
   skills:
     - class: rails-plain
       skill_name: Ruby-on-Rails
-    - class: express-original
+    - class: 
       skill_name: Express
-    - class: nodejs-plain
+    - class: 
       skill_name: NodeJS
-    - class: django-plain
+    - class: 
       skill_name: Django
 
 - name: privacy
   skills:
-    - class: git-plain
-      skill_name: Git
-    - class: github-plain
-      skill_name: GitHub
-    - class: heroku-original
-      skill_name: Heroku
-    - class: docker-plain
-      skill_name: Docker
+    - class: 
+      skill_name: GDPR
+    - class: 
+      skill_name: LGPD
+    - class: 
+      skill_name: CCPA
+    - class: 
+      skill_name: NIST Privacy 
 
 - name: education and culture
   skills:
-    - class: mocha-plain
+    - class: 
       skill_name: Mocha
-    - class: jasmine-plain
+    - class: 
       skill_name: Jasmine
-    - class: rspec-plain
+    - class: 
       skill_name: RSpec
 
-- name: mobile
+- name: it services and tools
   skills:
-    - class: react-original
-      skill_name: React Native
+    - class: 
+      skill_name: Microsoft365 (full suite)
+    - class: 
+      skill_name: Azure Cloud and AD
+    - class: 
+      skill_name: Amazon Web Services
+    - class: 
+      skill_name: Google Cloud Platform
+    - class: 
+      skill_name: Tugboat
+    - class: 
+      skill_name: OneTrust
+    - class: 
+      skill_name: JAMF endpoint management
+    - class: 
+      skill_name: ConnectWise
+    - class: 
+      skill_name: Kaseya
+    - class: 
+      skill_name: Multiple AV tools (CarbonBlack, Secure Anywhere, more)
+    - class: 
+      skill_name: Full IT services from on-premsise and decentralized workforce
+
+      
+
