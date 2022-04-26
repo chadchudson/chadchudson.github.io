@@ -1,11 +1,11 @@
-- name: cloud risk assessments
+- name: executive services
   skills:
-    - class: azure-plain
-      skill_name: Azure
-    - class: css3-plain
-      skill_name: CSS3
-    - class: sass-plain
-      skill_name: SASS
+    - class: 
+      skill_name: (v)CISO
+    - class: 
+      skill_name: (v)CCO
+    - class: 
+      skill_name: (v)CPO
     - class: bootstrap-plain
       skill_name: Bootstrap
     - class: jquery-plain
