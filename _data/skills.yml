@@ -46,14 +46,14 @@
 
 - name: security
   skills:
-    - class: rails-plain
-      skill_name: Ruby-on-Rails
     - class: 
-      skill_name: Express
+      skill_name: NIST frameworks
     - class: 
-      skill_name: NodeJS
+      skill_name: CIS
     - class: 
-      skill_name: Django
+      skill_name: 
+    - class: 
+      skill_name: 
 
 - name: privacy
   skills:
