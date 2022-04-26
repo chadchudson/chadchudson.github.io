@@ -1,7 +1,7 @@
 - name: executive services
   skills:
     - class: 
-      skill_name: -Chief Information Security Officer
+      skill_name: ~ Chief Information Security Officer
     - class: 
       skill_name: Chief Compliance Officer
     - class: 
@@ -13,7 +13,7 @@
 
 - name: risk assessments
   skills:
-    - class: *
+    - class:
       skill_name: Microsoft365
     - class: 
       skill_name: Azure
@@ -29,11 +29,11 @@
 - name: incident response
   skills:
     - class: 
-      skill_name: Postgresql
+      skill_name: Experience leading teams
     - class: 
-      skill_name: MongoDB
+      skill_name: Table-top exercises
     - class: 
-      skill_name: MySQL
+      skill_name: Vendor collaboration and management
 
 - name: compliance
   skills:
@@ -79,7 +79,7 @@
     - class: 
       skill_name: Security culture development
     - class: 
-      skill_name: 
+      skill_name: Social engineering
 
 - name: it services and tools
   skills:
