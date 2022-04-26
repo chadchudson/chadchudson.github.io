@@ -10,6 +10,8 @@
       skill_name: » Strategic roadmap development
     - class: 
       skill_name: » Risk management
+    - class: 
+      skill_name: » Mergers and acquistions      
 
 - name: risk assessments
   skills:
@@ -59,7 +61,19 @@
     - class: 
       skill_name: » Threat modeling
     - class: 
-      skill_name: 
+      skill_name: » Vendor management
+    - class: 
+      skill_name: » Data security
+    - class: 
+      skill_name: » Policy and Procedures
+    - class: 
+      skill_name: » Data Loss Prevention
+    - class: 
+      skill_name: » Vulnerability management
+    - class: 
+      skill_name: » Data discovery and classification
+    - class: 
+      skill_name: » Identitiy and access management
 
 - name: privacy
   skills:
@@ -71,6 +85,15 @@
       skill_name: » CCPA
     - class: 
       skill_name: » NIST Privacy 
+
+- name: mergers and acquisitions
+  skills:
+    - class: 
+      skill_name: » Assessments
+    - class: 
+      skill_name: » Due diligence
+    - class: 
+      skill_name: » Integrations
 
 - name: education and culture
   skills:
