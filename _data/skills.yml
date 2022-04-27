@@ -104,25 +104,6 @@
     - class: 
       skill_name: » Social Engineering
 
-- name: content generation and thought leadership
-  skills:
-    - class: 
-      skill_name: » <a href="https://www.marcumllp.com/insights/strategic-it-roadmap#">Strategic IT Roadmap</a>
-    - class: 
-      skill_name: » <a href="https://www.marcumllp.com/insights/ransomware-a-pain-in-the-derriere">Ransomware - A Pain in the Derrière</a>
-    - class: 
-      skill_name: » <a href="https://www.seniorvu.com/it-is-2022-do-you-know-where-your-organizations-data-is/">It Is 2022, Do You Know Where Your Organization’s Data Is?</a>
-    - class: 
-      skill_name: » <a href="https://www.seniorvu.com/keep-your-company-safe-from-cyber-security-attacks/">Keep Your Company Safe From Cyber Security Attacks</a>
-    - class: 
-      skill_name: » <a href="https://docs.google.com/document/d/1OlBlgLYCYN8Ci7HEYODYgwiIxH0YhM5K/edit?usp=sharing&ouid=111770920107023583581&rtpof=true&sd=true">Security, Compliance, and Privacy Frameworks</a>
-    - class: 
-      skill_name: » <a href="https://docs.google.com/document/d/1BRXZx8ftPltG9f1Aeh8rClnREuZAb_YD/edit?usp=sharing&ouid=111770920107023583581&rtpof=true&sd=true">Ukraine and Russia Conflict and Cybersecurity Risk to Your Community</a>
-    - class: 
-      skill_name: » <a href="https://docs.google.com/document/d/16_Smvqu1_LZ3e3Sgv1but0zstmkB0HjE/edit?usp=sharing&ouid=111770920107023583581&rtpof=true&sd=true">Is Your Community Private?</a>
-    - class: 
-      skill_name: » <a href="https://drive.google.com/file/d/1WLlEk2fGggPqOo0CXUF66ll9GHkZ3bsI/view?usp=sharing">5 Free Action Plans to Better Data Security</a>
-
 - name: it services and tools
   skills:
     - class: 
@@ -148,6 +129,25 @@
     - class: 
       skill_name: » Full IT services
     - class: 
-      skill_name: » PowerShell
+      skill_name: » PowerShell Scripting
     - class: 
-      skill_name: » Python
+      skill_name: » Python Scripting
+
+- name: content generation and thought leadership
+  skills:
+    - class: 
+      skill_name: » <a href="https://www.marcumllp.com/insights/strategic-it-roadmap#">Strategic IT Roadmap</a>
+    - class: 
+      skill_name: » <a href="https://www.marcumllp.com/insights/ransomware-a-pain-in-the-derriere">Ransomware - A Pain in the Derrière</a>
+    - class: 
+      skill_name: » <a href="https://www.seniorvu.com/it-is-2022-do-you-know-where-your-organizations-data-is/">It Is 2022, Do You Know Where Your Organization’s Data Is?</a>
+    - class: 
+      skill_name: » <a href="https://www.seniorvu.com/keep-your-company-safe-from-cyber-security-attacks/">Keep Your Company Safe From Cyber Security Attacks</a>
+    - class: 
+      skill_name: » <a href="https://docs.google.com/document/d/1OlBlgLYCYN8Ci7HEYODYgwiIxH0YhM5K/edit?usp=sharing&ouid=111770920107023583581&rtpof=true&sd=true">Security, Compliance, and Privacy Frameworks</a>
+    - class: 
+      skill_name: » <a href="https://docs.google.com/document/d/1BRXZx8ftPltG9f1Aeh8rClnREuZAb_YD/edit?usp=sharing&ouid=111770920107023583581&rtpof=true&sd=true">Ukraine and Russia Conflict and Cybersecurity Risk to Your Community</a>
+    - class: 
+      skill_name: » <a href="https://docs.google.com/document/d/16_Smvqu1_LZ3e3Sgv1but0zstmkB0HjE/edit?usp=sharing&ouid=111770920107023583581&rtpof=true&sd=true">Is Your Community Private?</a>
+    - class: 
+      skill_name: » <a href="https://drive.google.com/file/d/1WLlEk2fGggPqOo0CXUF66ll9GHkZ3bsI/view?usp=sharing">5 Free Action Plans to Better Data Security</a>
