@@ -7,11 +7,13 @@
     - class: 
       skill_name: » Chief Privacy Officer
     - class: 
-      skill_name: » Strategic roadmap development
+      skill_name: » Strategic Roadmap Development
     - class: 
-      skill_name: » Risk management
+      skill_name: » Risk Management
     - class: 
-      skill_name: » Mergers and acquistions      
+      skill_name: » Mergers and acquistions
+    - class: 
+      skill_name: » Board Member
 
 - name: risk assessments
   skills:
@@ -26,16 +28,16 @@
     - class: 
       skill_name: » On-premise/physical
     - class: 
-      skill_name: » Multiple frameworks
+      skill_name: » Multiple Frameworks
 
 - name: incident response
   skills:
     - class: 
-      skill_name: » Experience leading teams
+      skill_name: » Experience Leading IR Teams
     - class: 
-      skill_name: » Table-top exercises
+      skill_name: » Table-top Exercises
     - class: 
-      skill_name: » Vendor collaboration and management
+      skill_name: » Vendor Collaboration and Management
 
 - name: compliance
   skills:
@@ -55,9 +57,7 @@
 - name: security
   skills:
     - class: 
-      skill_name: » NIST frameworks
-    - class: 
-      skill_name: » CIS
+      skill_name: » Multiple Frameworks
     - class: 
       skill_name: » Threat modeling
     - class: 
@@ -91,18 +91,18 @@
     - class: 
       skill_name: » Assessments
     - class: 
-      skill_name: » Due diligence
+      skill_name: » Due Diligence
     - class: 
       skill_name: » Integrations
 
 - name: education and culture
   skills:
     - class: 
-      skill_name: » Executive security training
+      skill_name: » Executive Security Training
     - class: 
-      skill_name: » Security culture development
+      skill_name: » Security Culture Development
     - class: 
-      skill_name: » Social engineering
+      skill_name: » Social Engineering
 
 - name: it services and tools
   skills:
@@ -128,6 +128,7 @@
       skill_name: » Multiple AV tools 
     - class: 
       skill_name: » Full IT services
-
-      
-
+    - class: 
+      skill_name: » PowerShell
+    - class: 
+      skill_name: » Python
