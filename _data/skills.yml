@@ -104,7 +104,7 @@
     - class: 
       skill_name: » Social Engineering
     - class: 
-      skill_name: » [Strategic IT Roadmap](https://www.marcumllp.com/insights/strategic-it-roadmap#)
+      skill_name: » <a href="https://www.marcumllp.com/insights/strategic-it-roadmap#">Strategic IT Roadmap</a>
 
 - name: it services and tools
   skills:
