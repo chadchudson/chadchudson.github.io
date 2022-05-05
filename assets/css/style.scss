@@ -35,7 +35,7 @@
   overflow-y: hidden !important;
 }
 
-#projects, .about-me, #algorithms {
+#testimonials, .about-me, #algorithms {
 
   h3 {
     font-family: 'Abril Fatface', cursive;
@@ -124,7 +124,7 @@ nav {
   padding: 0 2% 0 2%;
 }
 
-.about-me p, .projects-paragraph {
+.about-me p, .testimonials-paragraph {
   margin: 4%;
   font-size: 25px;
   font-weight: 400;
@@ -133,7 +133,7 @@ nav {
   font-family: $font2;
 }
 
-.projects-paragraph {
+.testimonials-paragraph {
   color: white;
 }
 

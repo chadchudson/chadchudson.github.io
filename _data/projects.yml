@@ -153,7 +153,7 @@
 #   url: https://levytsroman.github.io/
 #   github_url: https://github.com/LevytsRoman/levytsroman.github.io
 #   short_description: >
-#     A personal site made using jekyll framework. It allows me to easily add new projects, save time and effort by providing equivalents of partials and layouts as well as potential to serve as a template for those interested in using it.
+#     A personal site made using jekyll framework. It allows me to easily add new testimonials, save time and effort by providing equivalents of partials and layouts as well as potential to serve as a template for those interested in using it.
 #   long_description: >
 #     I learned of jekyll from a mentor at Dev Bootcamp, and based on her enthusiasm for the framework decided to try it. While building this site I've was able to pick up a lot of cool concepts as well as learn some new technologies, such as making bash scripts, using sass, as well as building, maintaining and troubleshouting a live site with attention to user experience, generating content and desighning layout. I extracted a lot of hardcoded data so that this site can be easily cloned/forked on github and adopted to be used by someone else.
 #   technologies: Built using HTML5, CSS, javaScript, jQuery, materialize, jekyll framework, SCSS

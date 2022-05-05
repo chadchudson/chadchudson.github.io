@@ -34,7 +34,7 @@ var HideShowTransition = Barba.BaseTransition.extend({
     //   right: "+20px"
     // });
 
-    // $(".projects-border").css({
+    // $(".testimonials-border").css({
     //   bottom: "+10px",
     //   left: "-20px"
     // });
@@ -62,7 +62,7 @@ var HideShowTransition = Barba.BaseTransition.extend({
       );
     });
     var pro2 = new Promise((resolve, reject) => {
-      $(".projects-border").animate(
+      $(".testimonials-border").animate(
         {
           width: "100%"
         },
@@ -104,8 +104,8 @@ var HideShowTransition = Barba.BaseTransition.extend({
 
       var contactWidth = $(".contact").width(),
         contactHeight = $(".contact").height(),
-        projectsWidth = $(".projects").width(),
-        projectsHeight = $(".projects").height(),
+        testimonialsWidth = $(".testimonials").width(),
+        testimonialsHeight = $(".testimonials").height(),
         algorithmsWidth = $(".algorithms").width(),
         algorithmsHeight = $(".algorithms").height(),
         aboutWidth = $(".about").width(),
@@ -130,11 +130,11 @@ var HideShowTransition = Barba.BaseTransition.extend({
           400
         );
       $(this.oldContainer)
-        .find(".projects")
+        .find(".testimonials")
         .animate(
           {
-            left: "+=" + projectsWidth + "px",
-            top: "-=" + projectsHeight + "px"
+            left: "+=" + testimonialsWidth + "px",
+            top: "-=" + testimonialsHeight + "px"
           },
           400
         );
@@ -154,7 +154,7 @@ var HideShowTransition = Barba.BaseTransition.extend({
               .find(".about")
               .finish();
             $(this.oldContainer)
-              .find(".projects")
+              .find(".testimonials")
               .finish();
             $(this.oldContainer)
               .find(".algorithms")
@@ -187,20 +187,20 @@ var FadeTransition = Barba.BaseTransition.extend({
         });
         $(".about-border").css({ height: "100%" });
         $(".contact-border").css({ height: "100%" });
-        $(".projects-border").css({ width: "100%" });
+        $(".testimonials-border").css({ width: "100%" });
         $(".algorithms-border").css({ width: "100%" });
         var contactXPos = $(".contact").position().left,
           contactYPos = $(".contact").position().top,
-          projectsXPos = $(".projects").position().left,
-          projectsYPos = $(".projects").position().top,
+          testimonialsXPos = $(".testimonials").position().left,
+          testimonialsYPos = $(".testimonials").position().top,
           algorithmsXPos = $(".algorithms").position().left,
           algorithmsYPos = $(".algorithms").position().top,
           aboutXPos = $(".about").position().left,
           aboutYPos = $(".about").position().top;
         (contactWidth = $(".contact").width()),
           (contactHeight = $(".contact").height()),
-          (projectsWidth = $(".projects").width()),
-          (projectsHeight = $(".projects").height()),
+          (testimonialsWidth = $(".testimonials").width()),
+          (testimonialsHeight = $(".testimonials").height()),
           (algorithmsWidth = $(".algorithms").width()),
           (algorithmsHeight = $(".algorithms").height()),
           (aboutWidth = $(".about").width()),
@@ -219,10 +219,10 @@ var FadeTransition = Barba.BaseTransition.extend({
             top: "+=" + contactHeight + "px"
           });
         $(this.newContainer)
-          .find(".projects")
+          .find(".testimonials")
           .css({
-            left: "+=" + projectsWidth + "px",
-            top: "-=" + projectsHeight + "px"
+            left: "+=" + testimonialsWidth + "px",
+            top: "-=" + testimonialsHeight + "px"
           });
         $(this.newContainer)
           .find(".algorithms")
@@ -262,11 +262,11 @@ var FadeTransition = Barba.BaseTransition.extend({
         });
         var pro3 = new Promise((resolve, reject) => {
           $(this.newContainer)
-            .find(".projects")
+            .find(".testimonials")
             .animate(
               {
-                left: "-=" + projectsWidth + "px",
-                top: "+=" + projectsHeight + "px"
+                left: "-=" + testimonialsWidth + "px",
+                top: "+=" + testimonialsHeight + "px"
               },
               400,
               function() {
@@ -306,7 +306,7 @@ var FadeTransition = Barba.BaseTransition.extend({
           //   right: "+20px"
           // });
 
-          // $(".projects-border").css({
+          // $(".testimonials-border").css({
           //   bottom: "+10px",
           //   left: "-20px"
           // });
@@ -332,7 +332,7 @@ var FadeTransition = Barba.BaseTransition.extend({
           });
 
           var proBorder2 = new Promise((resolve, reject) => {
-            $(".projects-border").animate(
+            $(".testimonials-border").animate(
               {
                 width: "0%"
               },

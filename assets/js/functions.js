@@ -29,9 +29,9 @@ function addActiveTags(buttons){
   return active_tags;
 }
 
-function showProjects(projects, active_tags){
-  projects.each(function(i){
-    var project = $(projects[i]);
+function showtestimonials(testimonials, active_tags){
+  testimonials.each(function(i){
+    var project = $(testimonials[i]);
     project.hide();
 
     $.each(active_tags, function(k){
@@ -47,7 +47,7 @@ function showProjects(projects, active_tags){
   var activeTagsAreEmpty = active_tags.length === 0;
 
   if(activeTagsAreEmpty){
-    projects.show();
+    testimonials.show();
   }
 }
 

@@ -1,9 +1,9 @@
-projects:
+testimonials:
   url: /testimonials
   heading: Testimonials
   words: Kind words about my services
-  class: m7 projects
-  border: projects
+  class: m7 testimonials
+  border: testimonials
 about:
   url: /about
   heading: Me

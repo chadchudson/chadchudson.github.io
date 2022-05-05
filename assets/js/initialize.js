@@ -104,7 +104,7 @@ function initializeScripts(){
 
     var button = $(this),
         tag = $(this).attr('val'),
-        projects = $('.card'),
+        testimonials = $('.card'),
         buttons = $('.btn'),
         active_tags = [],
         needToClearFilters = tag === "clear-filters";
@@ -114,7 +114,7 @@ function initializeScripts(){
     } else{
       toggleTags(button, tag);
       active_tags = addActiveTags(buttons);
-      showProjects(projects, active_tags);
+      showtestimonials(testimonials, active_tags);
     }
   })
 

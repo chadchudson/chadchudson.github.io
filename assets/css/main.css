@@ -36,8 +36,8 @@
 .about__bkgrnd {
   background-image: url("../images/me.jpg"); }
 
-.projects__bkgrnd {
-  background-image: url("../images/projects.jpg"); }
+.testimonials__bkgrnd {
+  background-image: url("../images/testimonials.jpg"); }
 
 .algorithms__bkgrnd {
   background-image: url("../images/resume.jpg"); }
@@ -300,12 +300,12 @@
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.9);
     transition: box-shadow 0.5s linear; }
-  #homepage .projects {
+  #homepage .testimonials {
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.9);
     transition: box-shadow 0.5s linear;
-    background-image: url("/assets/images/projects.jpg");
+    background-image: url("/assets/images/testimonials.jpg");
     background-size: cover; }
-  #homepage .projects:hover {
+  #homepage .testimonials:hover {
     box-shadow: inset 0 0 0 1000px rgba(41, 41, 41, 0.6); }
   #homepage .contact a {
     margin-left: 10px; }
@@ -376,41 +376,41 @@
   background-color: transparent;
   overflow-y: hidden !important; }
 
-#projects h3, .about-me h3, #algorithms h3 {
+#testimonials h3, .about-me h3, #algorithms h3 {
   font-family: 'Abril Fatface', cursive;
   font-weight: 600;
   letter-spacing: 1.2; }
-#projects .card-title, .about-me .card-title, #algorithms .card-title {
+#testimonials .card-title, .about-me .card-title, #algorithms .card-title {
   font-family: 'Abril Fatface', cursive;
   font-weight: 600;
   letter-spacing: 1.2; }
-#projects .hidden, .about-me .hidden, #algorithms .hidden {
+#testimonials .hidden, .about-me .hidden, #algorithms .hidden {
   display: none; }
-#projects .project-img, .about-me .project-img, #algorithms .project-img {
+#testimonials .project-img, .about-me .project-img, #algorithms .project-img {
   width: 500px;
   height: 300px; }
-#projects .project-wrapper, .about-me .project-wrapper, #algorithms .project-wrapper {
+#testimonials .project-wrapper, .about-me .project-wrapper, #algorithms .project-wrapper {
   width: 100%; }
-#projects .card, .about-me .card, #algorithms .card {
+#testimonials .card, .about-me .card, #algorithms .card {
   width: 31.3%;
   height: 520px;
   display: inline-block;
   float: left;
   margin: 1% 1% 1% 1%; }
-#projects .content, .about-me .content, #algorithms .content {
+#testimonials .content, .about-me .content, #algorithms .content {
   min-height: 100vh; }
 @media all and (max-width: 990px) {
-  #projects .card, .about-me .card, #algorithms .card {
+  #testimonials .card, .about-me .card, #algorithms .card {
     width: 48%; } }
 @media all and (max-width: 600px) {
-  #projects .card, .about-me .card, #algorithms .card {
+  #testimonials .card, .about-me .card, #algorithms .card {
     width: 98%;
     min-width: 320px;
     margin: 5% 1% 5% 1%; } }
-#projects .description, .about-me .description, #algorithms .description {
+#testimonials .description, .about-me .description, #algorithms .description {
   font-family: "Raleway", sans-serif;
   font-size: 1.1em; }
-#projects .about-me p, .about-me .about-me p, #algorithms .about-me p {
+#testimonials .about-me p, .about-me .about-me p, #algorithms .about-me p {
   color: white !important;
   margin: 4%;
   font-size: 25px;
@@ -436,7 +436,7 @@ nav {
   color: #8e5572;
   padding: 0 2% 0 2%; }
 
-.about-me p, .projects-paragraph {
+.about-me p, .testimonials-paragraph {
   margin: 4%;
   font-size: 25px;
   font-weight: 400;
@@ -444,7 +444,7 @@ nav {
   text-indent: 50px;
   font-family: "Raleway", sans-serif; }
 
-.projects-paragraph {
+.testimonials-paragraph {
   color: white; }
 
 .about-me li {
@@ -554,7 +554,7 @@ nav ul li a {
   font-weight: 600;
   color: black; }
 
-.projects_container {
+.testimonials_container {
   padding: 20px 10px 0 10px;
   width: 100%;
   margin: auto; }
@@ -642,7 +642,7 @@ nav ul li {
 .right-arrow {
   left: 500px; }
 
-.projects-bottom {
+.testimonials-bottom {
   margin-top: 50px; }
 
 .footer_titles {
@@ -847,7 +847,7 @@ button.fill:hover:before {
   top: 0;
   left: -1px; }
 
-.projects-border {
+.testimonials-border {
   bottom: 0;
   left: 0; }
 
