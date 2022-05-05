@@ -1,0 +1,24 @@
+- name: values
+  skills:
+    - class: 
+      skill_name: » Faithfulness
+    - class: 
+      skill_name: » Character
+    - class: 
+      skill_name: » Provider
+    - class: 
+      skill_name: » Wellness
+    - class: 
+      skill_name: » Learning
+    - class: 
+      skill_name: » Joy
+
+- name: vision
+  skills:
+    - class:
+      skill_name: » 
+
+- name: purpose
+  skills:
+    - class: 
+      skill_name: » To glorify God through servant leadership in service to others.
